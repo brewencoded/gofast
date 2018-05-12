@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:brewencoded/gofast-client.git
+[submodule "server"]
+	path = server
+	url = git@github.com:brewencoded/gofast-server.git
